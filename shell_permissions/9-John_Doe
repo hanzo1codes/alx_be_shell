@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx g=rx o=wx hello.txt
+chmod 731 hello

@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod 751 hello.txt
+chomod 751 hello

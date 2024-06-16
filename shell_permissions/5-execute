@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod u+x hello
+chomod u+x hello.txt

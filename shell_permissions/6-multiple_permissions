@@ -1,0 +1,2 @@
+#!/bin/sh
+chomod u+x, o+r hello
